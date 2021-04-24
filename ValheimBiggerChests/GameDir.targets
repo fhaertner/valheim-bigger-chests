@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+  <PropertyGroup>
+    <GameDir>D:\SteamLibrary\steamapps\common\Valheim</GameDir>
+    <BepinDir>C:\Users\Shadow\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Bla\BepInEx</BepinDir>
+    <UnstrippedDir>C:\Users\Shadow\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Bla\unstripped_corlib</UnstrippedDir>
+    <DestDir>C:\Users\Shadow\Documents\Mods</DestDir>
+    </PropertyGroup>
+</Project>

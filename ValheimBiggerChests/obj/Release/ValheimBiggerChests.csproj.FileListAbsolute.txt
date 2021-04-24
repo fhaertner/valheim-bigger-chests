@@ -1,0 +1,4 @@
+C:\Users\Shadow\Documents\bigger_chests\ValheimBiggerChests\obj\Release\ValheimBiggerChests.csprojAssemblyReference.cache
+C:\Users\Shadow\Documents\bigger_chests\ValheimBiggerChests\obj\Release\ValheimBiggerChests.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Documents\bigger_chests\ValheimBiggerChests\Package\plugins\ValheimBiggerChests\ValheimBiggerChests.dll
+C:\Users\Shadow\Documents\bigger_chests\ValheimBiggerChests\obj\Release\ValheimBiggerChests.dll
